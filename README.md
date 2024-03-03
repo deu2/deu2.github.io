@@ -1,2 +1,2 @@
-# deu2.github.io
-The personal website of the Irradiant Owl!
+# deuellian.github.io
+The personal website of the Irradiant Prophet!
